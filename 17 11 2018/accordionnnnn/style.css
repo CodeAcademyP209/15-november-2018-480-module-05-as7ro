@@ -1,0 +1,19 @@
+button{
+background-color: yellow;
+cursor: pointer;
+padding: 20px;
+width: 100%;
+transition: all 0.4s ease-in;
+}
+div{
+    padding:20px;
+    background-color: gray;
+    display: none;
+    width: 90%;
+    margin-left: 10%;
+    transition: all 0.4s ease-in;
+
+}
+.active{
+    display: block;
+}
